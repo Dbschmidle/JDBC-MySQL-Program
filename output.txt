@@ -1,0 +1,310 @@
+Enter Username: 
+dschmidl
+Enter Password: 
+mylroowu
+jdbc:oracle:thin:@artemis.vsnet.gmu.edu:1521/vse18c.vsnet.gmu.edu
+Connected.
+Database Product Name: Oracle
+Database Product Version: Oracle Database 18c Enterprise Edition Release 18.0.0.0.0 - 
+Production
+Version 18.6.0.0.0
+Database Driver Name: Oracle JDBC driver
+Database Driver Version: 23.4.0.24.05
+SQL Script Location:
+paper.sql
+paper.sql successfully executed.
+
+a. View table Contents
+b. Search by PUBLICATIONID
+c. Search by one or more attributes
+d. Exit
+
+a
+PUBLICATIONS (Yes/No):
+Yes
+AUTHORS (Yes/No)
+No
+Specify the attributes [PUBLICATIONID, YEAR, TYPE, TITLE, SUMMARY]: 
+Seperate with commas or type "ALL" to view all.
+PUBLICATIONID, YEAR, TYPE, TITLE
+
+PUBLICATIONS:
+16, 2016, short, Nonparametric Spherical Topic Modeling with Word Embeddings, 
+17, 2016, long, Using Sentence-Level LSTM Language Models for Script Inference,       
+18, 2016, long, Universal Dependencies for Learner English,
+19, 2016, short, Syntactically Guided Neural Machine Translation,
+20, 2016, long, Neural Semantic Role Labeling with Dependency Path Embeddings,        
+21, 2017, long, Gated-Attention Readers for Text Comprehension,
+22, 2016, long, Learning Language Games through Interaction,
+23, 2016, long, Coordination Annotation Extension in the Penn Tree Bank,
+24, 2016, long, Addressing Limited Data for Textual Entailment Across Domains,        
+25, 2016, long, Data Recombination for Neural Semantic Parsing,
+26, 2017, long, Neural Belief Tracker: Data-Driven Dialogue State Tracking,
+27, 2016, long, Automatic Text Scoring Using Neural Networks,
+28, 2016, long, Siamese CBOW: Optimizing Word Embeddings for Sentence Representations,
+29, 2016, long, Two Discourse Driven Language Models for Semantics,
+30, 2016, long, The LAMBADA dataset: Word prediction requiring a broad discourse context,
+31, 2016, short, Incremental Parsing with Minimal Features Using Bi-Directional LSTM, 
+32, 2016, long, Inferring Logical Forms From Denotations,
+33, 2016, long, Intrinsic Subspace Evaluation of Word Embedding Representations,      
+34, 2016, long, Learning Concept Taxonomies from Multi-modal Data,
+35, 2016, long, On the Similarities Between Native, Non-native and Translated Texts, 
+36, 2017, long, Enhanced LSTM for Natural Language Inference,
+37, 2016, long, Compressing Neural Language Models by Sparse Word Representations,    
+1, 2016, long, Connotation Frames: A Data-Driven Investigation,
+2, 2016, long, Neural Machine Translation of Rare Words with Subword Units,
+3, 2016, long, Deep Reinforcement Learning with a Natural Language Action Space,      
+4, 2016, long, Improving Neural Machine Translation Models with Monolingual Data,     
+5, 2016, long, Minimum Risk Training for Neural Machine Translation,
+6, 2016, long, Strategies for Training Large Vocabulary Neural Language Models,       
+7, 2016, long, Multimodal Pivots for Image Caption Translation,
+8, 2016, short, Science Question Answering using Instructional Materials,
+9, 2016, long, Text Understanding with the Attention Sum Reader Network,
+10, 2016, long, A Fast Unified Model for Parsing and Sentence Understanding,
+11, 2016, long, Globally Normalized Transition-Based Neural Networks,
+12, 2016, long, Harnessing Deep Neural Networks with Logic Rules,
+13, 2016, long, Incorporating Copying Mechanism in Sequence-to-Sequence Learning,     
+14, 2016, long, Latent Predictor Networks for Code Generation,
+15, 2016, long, Neural Summarization by Extracting Sentences and Words,
+55, 2017, short, Improving Semantic Composition with Offset Inference,
+56, 2017, short, Lexical Features in Coreference Resolution: To be Used With Caution, 
+57, 2017, long, Argument Mining with Structured SVMs and RNNs,
+58, 2017, long, Learning to Skim Text,
+59, 2017, long, Deep Keyphrase Generation,
+60, 2017, long, Neural Machine Translation via Binary Code Prediction,
+61, 2017, long, Naturalizing a Programming Language via Interactive Learning,
+62, 2017, long, Translating Neuralese,
+63, 2017, short, Differentiable Scheduled Sampling for Credit Assignment,
+88, 2016, long, Composing Distributed Representations of Relational Patterns,
+89, 2017, short, A Generative Parser with a Discriminative Recognition Algorithm,     
+90, 2017, short, Group Sparse CNNs for Question Classification with Answer Sets,      
+91, 2016, long, One for All: Towards Language Independent Named Entity Linking,       
+64, 2017, long, Using Global Constraints and Reranking to Improve Cognates Detection, 
+65, 2017, long, Selective Encoding for Abstractive Sentence Summarization,
+66, 2017, long, Robust Incremental Neural Semantic Graph Parsing,
+67, 2017, long, Predicting Native Language from Gaze,
+68, 2017, long, Abstract Syntax Networks for Code Generation and Semantic Parsing,    
+69, 2017, long, Adversarial Multi-Criteria Learning for Chinese Word Segmentation,    
+70, 2017, short, Fine-Grained Entity Typing with High-Multiplicity Assignments,       
+71, 2017, short, Automatic Compositor Attribution in the First Folio of Shakespeare,  
+72, 2017, long, Topically Driven Neural Language Model,
+73, 2017, long, Riemannian Optimization for Skip-Gram Negative Sampling,
+74, 2017, long, Multimodal Word Distributions,
+75, 2017, long, Neural Word Segmentation with Rich Pretraining,
+76, 2017, short, A Conditional Variational Framework for Dialog Generation,
+77, 2017, long, Revisiting Recurrent Networks for Paraphrastic Sentence Embeddings,   
+78, 2017, short, Data Augmentation for Low-Resource Neural Machine Translation,       
+79, 2017, long, Deep Neural Machine Translation with Linear Associative Unit,
+80, 2017, long, Probabilistic Typology: Deep Generative Models of Vowel Inventories,  
+81, 2017, long, Cross-lingual Distillation for Text Classification,
+82, 2017, long, Flexible and Creative Chinese Poetry Generation Using Neural Memory,  
+83, 2017, long, Joint Modeling of Content and Discourse Relations in Dialogues,       
+84, 2017, long, Universal Dependencies Parsing for Colloquial Singaporean English,    
+85, 2017, long, Verb Physics: Relative Physical Knowledge of Actions and Objects,     
+86, 2017, short, A Deep Network with Visual Text Composition Behavior,
+87, 2017, long, A Nested Attention Neural Hybrid Model for Grammatical Error Correction,
+38, 2017, long, Morphological Inflection Generation with Hard Monotonic Attention,    
+39, 2016, long, Harnessing Cognitive Features for Sarcasm Detection,
+40, 2017, short, AMR-to-text Generation with Synchronous Node Replacement Grammar,    
+41, 2017, long, Neural Discourse Structure for Text Categorization,
+42, 2017, long, MORSE: Semantic-ally Drive-n MORpheme SEgment-er,
+43, 2017, short, Learning to Parse and Translate Improves Neural Machine Translation, 
+44, 2017, long, Reading Wikipedia to Answer Open-Domain Questions,
+45, 2017, long, One-Shot Neural Cross-Lingual Transfer for Paradigm Completion,       
+46, 2017, short, Multi-Task Learning of Keyphrase Boundary Classification,
+47, 2017, long, A Transition-Based Directed Acyclic Graph Parser for UCCA,
+48, 2017, long, A Syntactic Neural Model for General-Purpose Code Generation,
+49, 2017, long, What do Neural Machine Translation Models Learn about Morphology?,    
+50, 2017, long, Learning Character-level Compositionality with Visual Features,       
+51, 2017, long, An Interpretable Knowledge Transfer Model for Knowledge Base Completion,
+52, 2017, long, Neural End-to-End Learning for Computational Argumentation Mining,    
+53, 2017, long, Improved Neural Relation Detection for Knowledge Base Question Answering,
+54, 2017, long, Bandit Structured Prediction for Neural Sequence-to-Sequence Learning,
+
+a. View table Contents
+b. Search by PUBLICATIONID
+c. Search by one or more attributes
+d. Exit
+
+b
+PUBLICATIONID: 90
+90, 2017, short, Group Sparse CNNs for Question Classification with Answer Sets, 4, 
+
+a. View table Contents
+b. Search by PUBLICATIONID
+c. Search by one or more attributes
+d. Exit
+
+c
+Input Fields: 
+AUTHOR:
+
+TITLE:
+
+YEAR: 2016
+
+TYPE: short
+
+1, Hannah Rashkin, Connotation Frames: A Data-Driven Investigation, 2016, long, 
+1, Sameer Singh, Connotation Frames: A Data-Driven Investigation, 2016, long,
+1, Yejin Choi, Connotation Frames: A Data-Driven Investigation, 2016, long,
+10, Abhinav Rastogi, A Fast Unified Model for Parsing and Sentence Understanding, 2016, long,
+10, Christopher D. Manning, A Fast Unified Model for Parsing and Sentence Understanding, 2016, long,
+10, Christopher Potts, A Fast Unified Model for Parsing and Sentence Understanding, 2016, long,
+10, Jon Gauthier, A Fast Unified Model for Parsing and Sentence Understanding, 2016, long,
+10, Raghav Gupta, A Fast Unified Model for Parsing and Sentence Understanding, 2016, long,
+10, Samuel R. Bowman, A Fast Unified Model for Parsing and Sentence Understanding, 2016, long,
+11, Alessandro Presta, Globally Normalized Transition-Based Neural Networks, 2016, long,
+11, Aliaksei Severyn, Globally Normalized Transition-Based Neural Networks, 2016, long,
+11, Chris Alberti, Globally Normalized Transition-Based Neural Networks, 2016, long,  
+11, Daniel Andor, Globally Normalized Transition-Based Neural Networks, 2016, long,   
+11, David Weiss, Globally Normalized Transition-Based Neural Networks, 2016, long,    
+11, Kuzman Ganchev, Globally Normalized Transition-Based Neural Networks, 2016, long, 
+11, Michael Collins, Globally Normalized Transition-Based Neural Networks, 2016, long,
+11, Slav Petrov, Globally Normalized Transition-Based Neural Networks, 2016, long,    
+12, Eduard Hovy, Harnessing Deep Neural Networks with Logic Rules, 2016, long,        
+12, Eric Xing, Harnessing Deep Neural Networks with Logic Rules, 2016, long,
+12, Xuezhe Ma, Harnessing Deep Neural Networks with Logic Rules, 2016, long,
+12, Zhengzhong Liu, Harnessing Deep Neural Networks with Logic Rules, 2016, long, 
+12, Zhiting Hu, Harnessing Deep Neural Networks with Logic Rules, 2016, long,
+13, Hang Li, Incorporating Copying Mechanism in Sequence-to-Sequence Learning, 2016, long,
+13, Jiatao Gu, Incorporating Copying Mechanism in Sequence-to-Sequence Learning, 2016, long,
+13, Victor O.K. Li, Incorporating Copying Mechanism in Sequence-to-Sequence Learning, 
+2016, long,
+13, Zhengdong Lu, Incorporating Copying Mechanism in Sequence-to-Sequence Learning, 2016, long,
+14, Andrew Senior, Latent Predictor Networks for Code Generation, 2016, long,
+14, Edward Grefenstette, Latent Predictor Networks for Code Generation, 2016, long,   
+14, Fumin Wang, Latent Predictor Networks for Code Generation, 2016, long,
+14, Karl Moritz Hermann, Latent Predictor Networks for Code Generation, 2016, long,   
+14, Phil Blunsom, Latent Predictor Networks for Code Generation, 2016, long,
+14, Tom?¡Å¡ KoÄ?isk?½, Latent Predictor Networks for Code Generation, 2016, long,     
+14, Wang Ling, Latent Predictor Networks for Code Generation, 2016, long,
+15, Jianpeng Cheng, Neural Summarization by Extracting Sentences and Words, 2016, long,
+15, Mirella Lapata, Neural Summarization by Extracting Sentences and Words, 2016, long,
+16, Ardavan Saeedi, Nonparametric Spherical Topic Modeling with Word Embeddings, 2016, short,
+16, Karthik Narasimhan, Nonparametric Spherical Topic Modeling with Word Embeddings, 2016, short,
+16, Kayhan Batmanghelich, Nonparametric Spherical Topic Modeling with Word Embeddings, 2016, short,
+16, Sam Gershman, Nonparametric Spherical Topic Modeling with Word Embeddings, 2016, short,
+17, Karl Pichotta, Using Sentence-Level LSTM Language Models for Script Inference, 2016, long,
+17, Raymond J. Mooney, Using Sentence-Level LSTM Language Models for Script Inference, 2016, long,
+18, Boris Katz, Universal Dependencies for Learner English, 2016, long,
+18, Carolyn Spadine, Universal Dependencies for Learner English, 2016, long,
+18, Jessica Kenney, Universal Dependencies for Learner English, 2016, long,
+18, Jing Xian Wang, Universal Dependencies for Learner English, 2016, long,
+18, Keiko Sophie Mori, Universal Dependencies for Learner English, 2016, long,        
+18, Lucia Lam, Universal Dependencies for Learner English, 2016, long,
+18, Sebastian Garza, Universal Dependencies for Learner English, 2016, long,
+18, Yevgeni Berzak, Universal Dependencies for Learner English, 2016, long,
+19, Aurelien Waite, Syntactically Guided Neural Machine Translation, 2016, short,     
+19, Bill Byrne, Syntactically Guided Neural Machine Translation, 2016, short,
+19, Eva Hasler, Syntactically Guided Neural Machine Translation, 2016, short,
+19, Felix Stahlberg, Syntactically Guided Neural Machine Translation, 2016, short,    
+2, Alexandra Birch, Neural Machine Translation of Rare Words with Subword Units, 2016, long,
+2, Barry Haddow, Neural Machine Translation of Rare Words with Subword Units, 2016, long,
+2, Rico Sennrich, Neural Machine Translation of Rare Words with Subword Units, 2016, long,
+20, Michael Roth, Neural Semantic Role Labeling with Dependency Path Embeddings, 2016, long,
+20, Mirella Lapata, Neural Semantic Role Labeling with Dependency Path Embeddings, 2016, long,
+22, Christopher D. Manning, Learning Language Games through Interaction, 2016, long,  
+22, Percy Liang, Learning Language Games through Interaction, 2016, long,
+22, Sida I. Wang, Learning Language Games through Interaction, 2016, long,
+23, Jessica Ficler, Coordination Annotation Extension in the Penn Tree Bank, 2016, long,
+23, Yoav Goldberg, Coordination Annotation Extension in the Penn Tree Bank, 2016, long,
+24, Chaitanya Shivade, Addressing Limited Data for Textual Entailment Across Domains, 
+2016, long,
+24, Preethi Raghavan, Addressing Limited Data for Textual Entailment Across Domains, 2016, long,
+24, Siddharth Patwardhan, Addressing Limited Data for Textual Entailment Across Domains, 2016, long,
+25, Percy Liang, Data Recombination for Neural Semantic Parsing, 2016, long,
+25, Robin Jia, Data Recombination for Neural Semantic Parsing, 2016, long,
+27, Dimitrios Alikaniotis, Automatic Text Scoring Using Neural Networks, 2016, long,  
+27, Helen Yannakoudakis, Automatic Text Scoring Using Neural Networks, 2016, long,    
+27, Marek Rei, Automatic Text Scoring Using Neural Networks, 2016, long,
+28, Alexey Borisov, Siamese CBOW: Optimizing Word Embeddings for Sentence Representations, 2016, long,
+28, Maarten de Rijke, Siamese CBOW: Optimizing Word Embeddings for Sentence Representations, 2016, long,
+28, Tom Kenter, Siamese CBOW: Optimizing Word Embeddings for Sentence Representations, 2016, long,
+29, Dan Roth, Two Discourse Driven Language Models for Semantics, 2016, long,
+29, Haoruo Peng, Two Discourse Driven Language Models for Semantics, 2016, long,      
+3, Ji He, Deep Reinforcement Learning with a Natural Language Action Space, 2016, long,
+3, Jianfeng Gao, Deep Reinforcement Learning with a Natural Language Action Space, 2016, long,
+3, Jianshu Chen, Deep Reinforcement Learning with a Natural Language Action Space, 2016, long,
+3, Li Deng, Deep Reinforcement Learning with a Natural Language Action Space, 2016, long,
+3, Lihong Li, Deep Reinforcement Learning with a Natural Language Action Space, 2016, 
+long,
+3, Mari Ostendorf, Deep Reinforcement Learning with a Natural Language Action Space, 2016, long,
+3, Xiaodong He, Deep Reinforcement Learning with a Natural Language Action Space, 2016, long,
+30, Angeliki Lazaridou, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Denis Paperno, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Gemma Boleda, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Germ?¡n Kruszewski, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Marco Baroni, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Ngoc Quan Pham, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Raffaella Bernardi, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+30, Raquel Fernandez, The LAMBADA dataset: Word prediction requiring a broad discourse context, 2016, long,
+31, James Cross, Incremental Parsing with Minimal Features Using Bi-Directional LSTM, 
+2016, short,
+31, Liang Huang, Incremental Parsing with Minimal Features Using Bi-Directional LSTM, 
+2016, short,
+32, Panupong Pasupat, Inferring Logical Forms From Denotations, 2016, long,
+32, Percy Liang, Inferring Logical Forms From Denotations, 2016, long,
+33, Hinrich Sch?¼tze, Intrinsic Subspace Evaluation of Word Embedding Representations, 2016, long,
+33, Yadollah Yaghoobzadeh, Intrinsic Subspace Evaluation of Word Embedding Representations, 2016, long,
+34, Eric Xing, Learning Concept Taxonomies from Multi-modal Data, 2016, long,
+34, Hao Zhang, Learning Concept Taxonomies from Multi-modal Data, 2016, long,
+34, Mrinmaya Sachan, Learning Concept Taxonomies from Multi-modal Data, 2016, long,   
+34, Yuntian Deng, Learning Concept Taxonomies from Multi-modal Data, 2016, long,      
+34, Zhicheng Yan, Learning Concept Taxonomies from Multi-modal Data, 2016, long,      
+34, Zhiting Hu, Learning Concept Taxonomies from Multi-modal Data, 2016, long,        
+35, Ella Rabinovich, On the Similarities Between Native, Non-native and Translated Texts, 2016, long,
+35, Noam Ordan, On the Similarities Between Native, Non-native and Translated Texts, 2016, long,
+35, Sergiu Nisioi, On the Similarities Between Native, Non-native and Translated Texts, 2016, long,
+35, Shuly Wintner, On the Similarities Between Native, Non-native and Translated Texts, 2016, long,
+37, Ge Li, Compressing Neural Language Models by Sparse Word Representations, 2016, long,
+37, Lili Mou, Compressing Neural Language Models by Sparse Word Representations, 2016, long,
+37, Yan Xu, Compressing Neural Language Models by Sparse Word Representations, 2016, long,
+37, Yunchuan Chen, Compressing Neural Language Models by Sparse Word Representations, 
+2016, long,
+37, Zhi Jin, Compressing Neural Language Models by Sparse Word Representations, 2016, 
+long,
+39, Abhijit Mishra, Harnessing Cognitive Features for Sarcasm Detection, 2016, long,  
+39, Diptesh Kanojia, Harnessing Cognitive Features for Sarcasm Detection, 2016, long, 
+39, Kuntal Dey, Harnessing Cognitive Features for Sarcasm Detection, 2016, long,      
+39, Pushpak Bhattacharyya, Harnessing Cognitive Features for Sarcasm Detection, 2016, 
+long,
+39, Seema Nagar, Harnessing Cognitive Features for Sarcasm Detection, 2016, long,     
+4, Alexandra Birch, Improving Neural Machine Translation Models with Monolingual Data, 2016, long,
+4, Barry Haddow, Improving Neural Machine Translation Models with Monolingual Data, 2016, long,
+4, Rico Sennrich, Improving Neural Machine Translation Models with Monolingual Data, 2016, long,
+5, Hua Wu, Minimum Risk Training for Neural Machine Translation, 2016, long,
+5, Maosong Sun, Minimum Risk Training for Neural Machine Translation, 2016, long,     
+5, Shiqi Shen, Minimum Risk Training for Neural Machine Translation, 2016, long,      
+5, Wei He, Minimum Risk Training for Neural Machine Translation, 2016, long,
+5, Yang Liu, Minimum Risk Training for Neural Machine Translation, 2016, long,        
+5, Yong Cheng, Minimum Risk Training for Neural Machine Translation, 2016, long,      
+5, Zhongjun He, Minimum Risk Training for Neural Machine Translation, 2016, long,     
+6, David Grangier, Strategies for Training Large Vocabulary Neural Language Models, 2016, long,
+6, Michael Auli, Strategies for Training Large Vocabulary Neural Language Models, 2016, long,
+6, Wenlin Chen, Strategies for Training Large Vocabulary Neural Language Models, 2016, long,
+7, Julian Hitschler, Multimodal Pivots for Image Caption Translation, 2016, long,     
+7, Shigehiko Schamoni, Multimodal Pivots for Image Caption Translation, 2016, long,   
+7, Stefan Riezler, Multimodal Pivots for Image Caption Translation, 2016, long,       
+8, Eric Xing, Science Question Answering using Instructional Materials, 2016, short,  
+8, Kumar Dubey, Science Question Answering using Instructional Materials, 2016, short,
+8, Mrinmaya Sachan, Science Question Answering using Instructional Materials, 2016, short,
+88, Kentaro Inui, Composing Distributed Representations of Relational Patterns, 2016, 
+long,
+88, Naoaki Okazaki, Composing Distributed Representations of Relational Patterns, 2016, long,
+88, Sho Takase, Composing Distributed Representations of Relational Patterns, 2016, long,
+9, Jan Kleindienst, Text Understanding with the Attention Sum Reader Network, 2016, long,
+9, Martin Schmid, Text Understanding with the Attention Sum Reader Network, 2016, long,
+9, OndÅ?ej Bajgar, Text Understanding with the Attention Sum Reader Network, 2016, long,
+9, Rudolf Kadlec, Text Understanding with the Attention Sum Reader Network, 2016, long,
+91, Avirup Sil, One for All: Towards Language Independent Named Entity Linking, 2016, long,
+91, Radu Florian, One for All: Towards Language Independent Named Entity Linking, 2016, long,
+
+a. View table Contents
+b. Search by PUBLICATIONID
+c. Search by one or more attributes
+d. Exit
+
+d
+Goodbye!
+PS C:\Users\David\Desktop\cs450\p2>
