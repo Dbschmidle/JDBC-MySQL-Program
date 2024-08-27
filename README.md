@@ -1,0 +1,3 @@
+# JDBC-Mysql Connection Program
+
+Still a work in progres...
